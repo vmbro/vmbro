@@ -1,4 +1,4 @@
-⚡ I work at VMware by Broadcom as Senior TAM<br>🔭 I’m currently working on VCF-Operations-vCommunity-Content<br>👨‍💻 I’m looking to collaborate on  [VCF Operations vSphere vCommunity](https://github.com/vmbro/VCF-Operations-vCommunity-Content)  <br>📫 You can reach me: onur.yuzseven@broadcom.com
+⚡ I work at VMware by Broadcom as Senior TAM<br>🔭 I’m currently working on VCF Operations vCommunity<br>👨‍💻 I’m looking to collaborate on  [VCF Operations vCommunity](https://github.com/vmbro/VCF-Operations-vCommunity)  <br>📫 You can reach me: onur.yuzseven@broadcom.com
 
 
 ## 🌐 Socials:
